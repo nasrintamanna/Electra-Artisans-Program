@@ -16,8 +16,7 @@ D. Conditional statements should be used to control what type of information wou
 
 E. The correct finance formulas and calculations should be used to calculate the cost of goods, profit margin, and the six sigma value.
 
-F. There should be at least two customer purchases to test the system. The customer's purchases and the businesses financial information needs to be computed by the Electra artisans 
-programmed system and display the results.
+F. There should be at least two customer purchases to test the system. The customer's purchases and the businesses financial information needs to be computed by the Electra artisans programmed system and display the results.
 
 G.Images will need to be included in the program to display the arts and crafts to the customers.
 
